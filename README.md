@@ -1,6 +1,8 @@
 # SOCOM208
 ## Find a lower bound of the Capacity Limits of Optic Fiber Networks
 
+**[PLEASE READ THE REPORTS](https://drive.google.com/open?id=0B4-sjPft_IJGdkE0aklRaFdLQ2s) BEFORE** you dive into the code.
+
 Final Year project. Together with [Vincent Charbonnieras](https://www.facebook.com/vincent.charbonnieras?ref=br_rs), 
 we obtained the best grade for this final year project at [Telecom Paristech](https://www.telecom-paristech.fr/eng) in the Major Systems and Objects of Communication.
 
